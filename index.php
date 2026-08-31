@@ -107,7 +107,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🔳 تولید QR Code</h1>
+        <h1>تولید QR Code</h1>
         <form action="qr.php" method="POST">
             <div class="form-group">
                 <label for="data">متن یا لینک:</label>
